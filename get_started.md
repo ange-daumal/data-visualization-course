@@ -47,9 +47,9 @@ It will open a command-line interface.
 * Open a console / terminal
 * On *Debian-based Linux*, install git using **apt-get**:
 ```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
+sudo apt update
+sudo apt upgrade
+sudo apt install git
 ```
 * On *Red Hat-based Linux*, install git using **yum**:
 ```
@@ -82,8 +82,6 @@ Then install Git using:
 * Open *Git Bash* software. Make sure git is installed by typing `git --version`
 * Close this project using 
 `git clone https://github.com/Lyloox/data-visualization-course.git`
-
-
 
 
 ## 3. Use Jupyter
