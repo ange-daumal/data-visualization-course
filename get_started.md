@@ -29,7 +29,7 @@ Pipenv is a solution to provide both a package manager (like `pip`) and a
 virtual environment (before, we used `virtualenv`). It allows you to have 
 several versions of the same package across projects, without them overlapping.
 
-### On Windows, Linux & MacOs
+### On Windows
 
 Anaconda requires 3GB of free hard drive space.
 
@@ -38,14 +38,14 @@ for **Python 3.7**.
 * You can now access *Anaconda Prompt* and *Anaconda Navigator* softwares.
 * Open *Anaconda Prompt* **with administrator rights**, using right click. 
 It will open a command-line interface. 
-* Type `conda install -c conda-forge pipenv ` to install pipenv.
+* Type `conda install -c conda-forge pipenv` to install pipenv.
 
 ## 2. Get Git & clone this repository 
 
 ### On Linux & MacOs 
 
 * Open a console / terminal
-* On *Debian-based Linux*, install git using **apt-get**:
+* On *Debian-based Linux*, install git using **apt**:
 ```
 sudo apt update
 sudo apt upgrade
