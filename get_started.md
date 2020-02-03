@@ -7,6 +7,8 @@ The installation will take place in three steps:
 
 Each step will have subparts depending on your Operating System.
 
+Anaconda software is only necessary if you are on Windows.
+
 ## 1. Get Python 3.7 
 
 * Download the version  `3.7` of Python on the 
@@ -77,9 +79,12 @@ Then install Git using:
 * Install [Git](https://git-scm.com/) from their official website.
 * Open the installation file **with administrator rights** too.
 * On the screen *Select Components*, let default settings
-* On the screen *Adjusting your PATH environnment*, select « Use Git from the Windows Command Prompt »
-* On the screen *Configuring the line ending conversions*, select  « Checkout as-is, commit Unix-style line endings »
-* Open *Git Bash* software. Make sure git is installed by typing `git --version`
+* On the screen *Adjusting your PATH environnment*, 
+select « Use Git from the Windows Command Prompt »
+* On the screen *Configuring the line ending conversions*, 
+select  « Checkout as-is, commit Unix-style line endings »
+* Open *Git Bash* software. Make sure git is installed by typing 
+`git --version`
 * Close this project using 
 `git clone https://github.com/Lyloox/data-visualization-course.git`
 
@@ -96,8 +101,8 @@ We will be working with Jupyter to plot our graphs.
 
 ### On Windows
 * Open `Anaconda Navigator`
-* Launch `Jupyter Notebook`
-* Navigate to the place where you clone *data-visualization-course*.
+* Launch a `Jupyter Notebook`
+* Navigate to the place where you cloned *data-visualization-course*.
 
 Each course will have its own folder.
 
@@ -106,3 +111,13 @@ open at localhost:8888.
 Open the `Chapter01` folder and open the `.ipynb` file
 titled with `lesson01` to start the first course. Good luck!
 
+
+# Troubleshoot
+
+### On Linux & MacOs 
+* Make sure you entered your pipenv environment when you run the 
+`jupyter notebook` command. 
+Otherwise you won't be able to access the librairies installed with pipenv.
+* If you run with another Python version than 3.7, edit the "Pipfile" at
+the root of this repository and change the `python_version` to yours.
+Make sure it's a Python 3.6+ version though.
