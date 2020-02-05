@@ -10,6 +10,11 @@ numpy = "*"
 matplotlib = "*"
 jupyterlab = "*"
 pandas = "*"
+geopandas = "*"
+shapely = "*"
+missingno = "*"
+seaborn = "*"
+descartes = "*"
 
 [requires]
 python_version = "3.7"
