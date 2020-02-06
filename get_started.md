@@ -69,7 +69,9 @@ After the installation finished, continue installing Homebrew by hitting
 Return.
 
 Then install Git using:
-`brew install git`
+```
+brew install git
+```
 
 * Clone this project using
 `git clone https://github.com/Lyloox/data-visualization-course.git`

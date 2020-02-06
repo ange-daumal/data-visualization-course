@@ -1,3 +1,14 @@
+# Datasets
+*.zip
+*.csv
+*.xls
+*.png
+*.dbf
+*.prj
+*.shp
+*.shx
+*.json
+
 # PyCharm IDE
 .idea/*
 
