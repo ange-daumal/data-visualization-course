@@ -23,12 +23,12 @@ Please follow the installation instructions in `get_started.md` to install
 required softwares. The course will be taught in **Python**, the main language 
 for data manipulation alongside R and Matlab.
 
-Each chapter is supposed to be done in ~3 hours. For the faster ones, the 
-project for the next session can be started. 
+Each chapter is supposed to be done in ~3 hours.
 
 ## Chapter 1
 * Set up & usage of **`jupyter notebook`**.
-* Lesson 1: Introduction to **`numpy`**, a scientific computing package
+* Lesson 1: 
+    - Introduction to **`numpy`**, a scientific computing package
 * Lesson 2: 
     - Introduction to **`matplotlib`**, a 2d plotting library  
     - Introduction to **`pandas`**, a package providing data structures and analysis tools. 
