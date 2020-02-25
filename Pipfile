@@ -15,6 +15,10 @@ shapely = "*"
 missingno = "*"
 seaborn = "*"
 descartes = "*"
+selenium = "*"
+bs4 = "*"
+requests = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3"
