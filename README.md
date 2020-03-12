@@ -52,3 +52,12 @@ Each chapter is supposed to be done in ~3 hours.
     - Usage of **`seaborn`**, a package based on `matplotlib` for high-level
     visualization
     - Implementation of Linear Discriminant Analysis (LDA) using `numpy`
+
+## Chapter 4
+* Lesson 1:
+    - Introduction to Machine Learning algorithms
+    - Usage and visualization of a Decision Tree
+    - Learn how to validate and improve a model using `sklearn` methods
+* Lesson 2:
+    - Learn about ensemble methods (bagging, boosting)
+    - Introduction to different machine learning models.
