@@ -61,3 +61,11 @@ Each chapter is supposed to be done in ~3 hours.
 * Lesson 2:
     - Learn about ensemble methods (bagging, boosting)
     - Introduction to different machine learning models.
+
+## Chapter 5
+* Lesson 1:
+    - Introduction to NoSQL databases, Hadoop and ElasticSearch
+    - Use of **`sql-connector-python`** or **`py2neo`**
+* Lesson 2:
+    - Query an API with `requests`
+    - Create your own API with **`flask`**

@@ -12,6 +12,7 @@
 *.json
 *.arff
 *.dot
+*.jpg
 
 # PyCharm IDE
 .idea/*

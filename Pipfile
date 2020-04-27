@@ -25,6 +25,7 @@ flask = "*"
 flask-restplus = "*"
 python-dotenv = "*"
 mysql-connector-python = "*"
+py2neo = "*"
 
 [requires]
 python_version = "3"
