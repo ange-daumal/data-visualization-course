@@ -20,6 +20,11 @@ bs4 = "*"
 requests = "*"
 sklearn = "*"
 jyquickhelper = "*"
+tqdm = "*"
+flask = "*"
+flask-restplus = "*"
+python-dotenv = "*"
+mysql-connector-python = "*"
 
 [requires]
 python_version = "3"
