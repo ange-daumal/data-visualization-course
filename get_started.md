@@ -1,7 +1,7 @@
 # Data Visualization course - Installation Instructions
 
 The installation will take place in three steps:
-1. Get **Python 3.7** and **Pipenv** to install necessary packages
+1. Get the latest Python version (**Python 3.9.2** as of Frebruary 2021) and **Pipenv** to install necessary packages
 1. Get **Git** & clone this repository
 1. Open **Jupyter Notebook** and open the first lesson
 
@@ -9,9 +9,9 @@ Each step will have subparts depending on your Operating System.
 
 Anaconda software is only necessary if you are on Windows.
 
-## 1. Get Python 3.7 
+## 1. Get the latest Python version
 
-* Download the version  `3.7` of Python on the 
+* Download the latest version of Python on the 
 [official website](https://www.python.org/downloads/).  
 If you're not sure how, you can follow 
 [installation steps](https://realpython.com/installing-python/) depending on 
@@ -36,7 +36,7 @@ several versions of the same package across projects, without them overlapping.
 Anaconda requires 3GB of free hard drive space.
 
 * Download the [Anaconda Distribution](https://www.anaconda.com/distribution/) 
-for **Python 3.7**.
+for your **Python version**.
 * You can now access *Anaconda Prompt* and *Anaconda Navigator* softwares.
 * Open *Anaconda Prompt* **with administrator rights**, using right click. 
 It will open a command-line interface. 
