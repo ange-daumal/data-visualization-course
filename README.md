@@ -14,7 +14,7 @@
 </pre>
  
 
-<h4 align="center">A Data Analysis course in Python by Laure Daumal</h4>
+<h4 align="center">A Data Analysis course in Python by Ange Daumal</h4>
 
 This course is taught as part of the ESILV master's degree.
 
